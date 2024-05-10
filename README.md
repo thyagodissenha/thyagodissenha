@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+</div>
+
 <!--
 **thyagodissenha/thyagodissenha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
